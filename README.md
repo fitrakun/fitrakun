@@ -37,8 +37,6 @@ I bridge the gap between rigorous **Human-Computer Interaction (HCI)** research 
 ![](https://github-readme-stats.vercel.app/api?username=fitrakun&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=fitrakun&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fitrakun&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![Fitra's GitHub stats](https://github-readme-stats.vercel.app/api?username=fitrakun&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fitrakun&layout=compact&theme=tokyonight&hide_border=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
