@@ -10,7 +10,7 @@ I bridge the gap between rigorous **Human-Computer Interaction (HCI)** research 
 
 ### 🚀 Professional Highlights
 * **Technical Lead @ Rolling Glory:** Leading and architecting multi-tenant React/TypeScript platforms, specializing in dynamic theme-based engines for enterprise clients.
-* **Best Instructor @ RevoU:** Mentoring the next generation of engineers in JavaScript, React, and Frontend Deployment (MSIB, Master Class, Coding Camp programs).
+* **Instructor @ RevoU:** Mentoring the next generation of engineers in JavaScript, React, and Frontend Deployment (MSIB, Master Class, Coding Camp programs).
 * **HCI Researcher:** Sakuma Award recipient at Kochi University of Technology. Published researcher in intergenerational fitness tracking and user-centered design.
 * **Co-Founder @ Fierofea Books:** Leading a team of 30+ volunteers to increase literacy access across Indonesia.
 
